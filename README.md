@@ -4,5 +4,5 @@ This Pet Adventure Game is a text-based, browser-based full stack web applicatio
 
 1. We gonna start with HTML,CSS,JS and then move on to PHP,Laravel,MySQL.
 2. Added a form for pet creation.
-3. Add styling for the form with CSS Flexbox for a clean layout.
+3. Added styling for the form with CSS Flexbox for a clean layout.
 
